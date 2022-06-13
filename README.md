@@ -8,3 +8,5 @@ When both players chose same character it's a tie.
 Rock beats Scissors
 Paper beats Rock
 Scissors beats Paper
+
+You can read more about this game here https://en.wikipedia.org/wiki/Rock_paper_scissors
